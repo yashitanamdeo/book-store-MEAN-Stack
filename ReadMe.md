@@ -19,6 +19,3 @@
 1. Node JS + Express Web API
 2. Angular 10 UI
 3. Mongo Db [Atlas](https://cloud.mongodb.com/)
-
-## Tasks to complete before executing the application
-
