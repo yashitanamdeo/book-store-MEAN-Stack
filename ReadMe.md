@@ -1,5 +1,12 @@
-# This mini-project is made using MEAN stack
-
+This is a Simple MEAN Stack application for Book Store which performs all the CRUD operations where:
+<br>
+<b>C</b> - Create/Add a book <br>
+<b>R</b> - Read the book entries from the database(MongoDB Atlas) <br>
+<b>U</b> - Update the book details <br>
+<b>D</b> - Delete the book entries
+<br><br>
+This project is part of my 1 Month Industrial Training of MEAN Stack Development from <a href="https://webteklabs.com/">WebTek Labs, Delhi.</a>
+<br>
 ## Application Looks and Feel
 
 ### Angular 10 UI
