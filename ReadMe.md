@@ -24,6 +24,3 @@
 
 1. To be done
 
-## How to execute the project
-
-1. To be done
