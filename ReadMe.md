@@ -29,7 +29,4 @@
 1. To be done
 
 
-## Angular UI 
-
-1. To be done
-
+## Angular UI
