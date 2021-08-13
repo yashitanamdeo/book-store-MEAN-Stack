@@ -22,5 +22,3 @@
 
 ## Tasks to complete before executing the application
 
-1. To be done
-
