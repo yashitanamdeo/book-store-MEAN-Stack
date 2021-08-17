@@ -10,6 +10,7 @@ This is a Simple MEAN Stack application for Book Store which performs all the CR
 <br><br>
 This project is part of my 1 Month Industrial Training of MEAN Stack Development from <a href="https://webteklabs.com/">WebTek Labs, Delhi.</a>
 <br>
+
 ## Application Looks and Feel
 
 ### Angular 10 UI
