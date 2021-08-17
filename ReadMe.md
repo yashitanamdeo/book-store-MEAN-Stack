@@ -29,4 +29,4 @@ This project is part of my 1 Month Industrial Training of MEAN Stack Development
 
 1. Node JS + Express Web API
 2. Angular 10 UI
-3. Mongo Db [Atlas](https://cloud.mongodb.com/)
+3. [Mongo Db Atlas](https://cloud.mongodb.com/)
