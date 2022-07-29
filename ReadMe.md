@@ -1,4 +1,4 @@
-# Book Store Applicatiom
+# Book Store Application
 
 <br>
 This is a Simple MEAN Stack application for Book Store which performs all the CRUD operations where:
